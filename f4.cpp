@@ -1,3 +1,4 @@
+/* accept student record and display */
 #include<stdio.h>
 #include<stdlib.h>
 #include<ctype.h>
