@@ -1,3 +1,5 @@
+/* accept one file and copy content another file to change the uppercase character into lowecase 
+and vice versa and digit is replace by star symbol */
 #include<stdio.h>
 #include<stdlib.h>
 #include<ctype.h>
