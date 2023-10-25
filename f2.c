@@ -1,3 +1,4 @@
+/* accept file and display file content */
 #include<stdio.h>
 int main()
 {
